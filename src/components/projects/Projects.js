@@ -18,8 +18,8 @@ const Projects = () => {
                     <h4 >Built with</h4>
                     <p>React | Redux | Nodejs | MongoDb | Google Places</p>
                     
-                    <a target="_blank" href="https://decision-maker1.netlify.app/"><button>Site</button></a>
-                    <a target="_blank" href="https://github.com/dillonconner/decision-maker"><button>Repo</button></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://decision-maker1.netlify.app/"><button>Site</button></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://github.com/dillonconner/decision-maker"><button>Repo</button></a>
                     <p className="login-info">Demo Login</p>
                     <p>Username: demoUser</p>
                     <p>password: demoUser</p>
@@ -35,8 +35,8 @@ const Projects = () => {
                     <p>Recipe creation and editting tool that allows user to see different versions of their recipe</p>
                     <h4 >Built with</h4>
                     <p>React | Redux | Nodejs | MongoDb</p>
-                    <a target="_blank" href="https://my-cookbook1.netlify.app/"><button>Site</button></a>
-                    <a target="_blank" href="https://github.com/dillonconner/MyCookbook"><button>Repo</button></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://my-cookbook1.netlify.app/"><button>Site</button></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://github.com/dillonconner/MyCookbook"><button>Repo</button></a>
                     <p className="login-info">Demo Login</p>
                     <p>Username: demoUser</p>
                     <p>password: demoUser</p>

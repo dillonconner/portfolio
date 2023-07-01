@@ -1,5 +1,6 @@
 import "./About.css";
 import React from "react";
+import resume from "../../static/Dillon_Conner_Resume.pdf";
 
 const About = () => {
 
@@ -25,7 +26,7 @@ const About = () => {
                         <h4 className="highlightB">Virginia Tech</h4>
                         <p>BS Computer Engineering <span className="focus">(Focus: Machine Learning)</span></p>
                     </div>
-                    <a href="./static/Dillon_Conner_Resume.pdf"><button className="resume">Resume</button></a>
+                    <a href={resume} target="_blank" rel="noopener noreferrer"><button className="resume">Resume</button></a>
                 </div>
                 <div className="section blue">
                     <div className="section-header">
