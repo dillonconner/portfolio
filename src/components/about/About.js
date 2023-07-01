@@ -25,7 +25,7 @@ const About = () => {
                         <h4 className="highlightB">Virginia Tech</h4>
                         <p>BS Computer Engineering <span className="focus">(Focus: Machine Learning)</span></p>
                     </div>
-                    <button className="resume">Resume</button>
+                    <a href="./static/Dillon_Conner_Resume.pdf"><button className="resume">Resume</button></a>
                 </div>
                 <div className="section blue">
                     <div className="section-header">
