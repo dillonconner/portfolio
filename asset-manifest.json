@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.794d7c9b.css",
-    "main.js": "/portfolio/static/js/main.1de16f44.js",
+    "main.js": "/portfolio/static/js/main.3dc0a548.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/mycookbook.png": "/portfolio/static/media/mycookbook.530449cc67ce02c1a680.png",
     "static/media/decisionmaker.png": "/portfolio/static/media/decisionmaker.d7cc6fa037da6e41004e.png",
     "static/media/decisionmaker1.png": "/portfolio/static/media/decisionmaker1.df8ba291e4bee216fea0.png",
     "index.html": "/portfolio/index.html",
     "main.794d7c9b.css.map": "/portfolio/static/css/main.794d7c9b.css.map",
-    "main.1de16f44.js.map": "/portfolio/static/js/main.1de16f44.js.map",
+    "main.3dc0a548.js.map": "/portfolio/static/js/main.3dc0a548.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.794d7c9b.css",
-    "static/js/main.1de16f44.js"
+    "static/js/main.3dc0a548.js"
   ]
 }
