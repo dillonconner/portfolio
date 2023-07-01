@@ -1,0 +1,15 @@
+.contact {
+    background-color: var(--blue);
+    color: var(--white);
+    padding-bottom: 30px;
+}
+.icons-wrapper {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+}
+.contact a {
+    color: azure;
+    font-size: 50px;
+}

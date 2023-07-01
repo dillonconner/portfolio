@@ -1,0 +1,53 @@
+.projects {
+    color: var(--black);
+    box-shadow: 0 -5px 5px rgba(0, 0, 0, 0.1);
+}
+.project {
+    background-color: var(--gray);
+    color: var(--white);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: 25px 8%;
+    padding: 2% 2%;
+    text-align: left;
+    border-radius: 10px;
+    box-shadow: 0 0 20px var(--gray);
+}
+.project h3 {
+    font-size: 30px;
+}
+.project p {
+    font-size: 20px;
+}
+.project p {
+    font-size: 20px;
+}
+
+.login-info { text-decoration: underline; }
+.description { width: 40%; }
+.description h3 { text-decoration: underline; }
+.description h4 { margin-top: 20px; }
+.description button {
+    margin: 20px 10px 5px 0;
+    width: 100px;
+    padding: 5px;
+    border: none;
+}
+p.note { font-size: 12px; font-style: italic; }
+
+.image-wrapper {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    width: 70%;
+    height: 50%
+}
+.image-wrapper img {
+
+    max-width: 100%;
+    max-height: 500px;
+    border-radius: 10px;
+    box-shadow: 3px 10px 10px rgba(0, 0, 0, 0.5);
+}

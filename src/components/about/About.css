@@ -1,0 +1,46 @@
+.about {
+    width: 70%;
+    margin: 0 auto 100px;
+    
+}
+.about p { font-size: 20px; }
+.about-header {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    padding: 0 25% 20px;
+}
+.sections {
+    display: flex;
+    justify-content: space-between;
+}
+.section {
+    width: 40%;
+    text-align: left;
+}
+.section-header {
+    text-align: center;
+}
+.section-item {
+    margin-bottom: 10px;
+    padding-bottom: 2px;
+    border-bottom: 1px solid gray;
+}
+button.resume {
+    margin-top: 10px;
+    padding: 5px;
+}
+.focus {
+    font-style: italic;
+}
+.makebig {
+    font-weight: bold;
+    font-size: 20px;
+}
+.blue {
+    background-color: var(--blue);
+    color: var(--white);
+    border-radius: 10px;
+    width: 48%;
+}
+.blue p { padding: 0 10px;}

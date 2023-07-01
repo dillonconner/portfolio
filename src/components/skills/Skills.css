@@ -1,0 +1,66 @@
+.skills {
+    background-color: gainsboro;
+    padding-bottom: 40px;
+    box-shadow: inset 0 -5px 15px rgba(0, 0, 0, 0.5);
+}
+.skills:hover { cursor: pointer; }
+
+.skill-blocks {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+.skill-block {
+    font-size: 24px;
+}
+.skill-icons {
+    margin: 30px 0 0;
+}
+.skill {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+    gap: 10px;
+    margin: 10px 0;
+}
+.skill-name { 
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.skill img {
+    max-width: 35px;
+}
+.empty-bar {
+    background-color: transparent;
+    width: 150px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.fill {
+    background-color: rgb(59, 180, 228);
+    height: inherit;
+    border-radius: inherit;
+}
+
+.skill-icons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 0 15% 10px;
+}
+.skill-icon {
+    background-color: rgb(59, 59, 59);
+    color: azure;
+    min-width: 60px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.skill-icon img {
+    max-width: 200px;
+    max-height: 75px;
+}
