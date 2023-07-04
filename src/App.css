@@ -26,7 +26,7 @@ button {
 
 .intro {
   background-image: linear-gradient(var(--blue), var(--blue), var(--blue2), var(--white));
-  padding: 30vh 0;
+  padding: 30vh 10px;
   color: var(--white);
 }
 .particle-wrapper {
@@ -40,4 +40,12 @@ button {
 .particles {
   width: 100%;
   height: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+  h1 { font-size: 40px; }
+  h2 { font-size: 30px; }
+  h3 { font-size: 25px; }
+  h4 { font-size: 15px; }
+  .hi { font-size: 65px; }
 }

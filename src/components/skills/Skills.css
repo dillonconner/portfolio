@@ -64,3 +64,25 @@
     max-width: 200px;
     max-height: 75px;
 }
+
+@media only screen and (max-width: 600px) {
+    .skill-icons {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 10px;
+        padding: 0 15% 10px;
+    }
+    .skill-icon {
+        background-color: rgb(59, 59, 59);
+        color: azure;
+        min-width: 60px;
+        padding: 10px;
+        border-radius: 10px;
+    }
+    
+    .skill-icon img {
+        max-width: 100px;
+        max-height: 55px;
+    }
+}

@@ -1,21 +1,18 @@
 .about {
     width: 70%;
     margin: 0 auto 100px;
-    
 }
 .about p { font-size: 20px; }
-.about-header {
-    display: flex;
-    justify-content: center;
-    width: 50%;
-    padding: 0 25% 20px;
-}
+
 .sections {
     display: flex;
-    justify-content: space-between;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 100px;
 }
 .section {
     width: 40%;
+    min-width: 500px;
     text-align: left;
 }
 .section-header {
@@ -42,5 +39,18 @@ button.resume {
     color: var(--white);
     border-radius: 10px;
     width: 48%;
+    
 }
-.blue p { padding: 0 10px;}
+.blue p { padding: 20px 10px;}
+
+@media only screen and (max-width: 600px) {
+    .about {
+        width: 90%;
+    }
+    .about p { font-size: 15px; }
+    .section {
+        width: 100%;
+        min-width: unset;
+        text-align: left;
+    }
+}
