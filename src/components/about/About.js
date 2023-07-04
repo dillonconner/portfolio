@@ -6,9 +6,7 @@ const About = () => {
 
     return (
         <div className="about">
-            <div className="about-header">
-                <h2>About Me</h2>
-            </div>
+            <h2>About Me</h2>
             <div className="sections">
                 <div className="section">
                     <div className="section-header">
@@ -30,15 +28,11 @@ const About = () => {
                 </div>
                 <div className="section blue">
                     <div className="section-header">
-                        <h3>Stuff</h3>
+                        <h3>Summary</h3>
                     </div>
-                    <p>Following graduation from Virginia Tech, Dillon Conner failed to find a job
-                        because he - for some dumb reason - decided he wanted to get life experience with 
-                        poor people jobs rather than only ever work in tech. </p>
-                    <p>To combat this lack of internship, he chose to learn fullstack development so he could make projects on his
-                        own that would serve as proof-of-intelligence to companies. He has now learned Angular through Revature and React on his own,
-                        and is ready to further his skills at any job that will pay him
-
+                    <p>Dillon Conner is a Full-Stack Developer looking for an opportunity to improve his skills while
+                        working in a fast paced environment with enthusiatic coworkers. He excels at learning new technologies and 
+                        is excited to learn from experienced professionals while helping develop complex and challenging software. 
                     </p>
                 </div>
             </div>
