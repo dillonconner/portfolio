@@ -30,7 +30,7 @@ const About = () => {
                     <div className="section-header">
                         <h3>Summary</h3>
                     </div>
-                    <p>Dillon Conner is a Full-Stack Developer looking for an opportunity to improve his skills while
+                    <p>Dillon Conner is a Software Developer looking for an opportunity to improve his skills while
                         working in a fast paced environment with enthusiatic coworkers. He excels at learning new technologies and 
                         is excited to learn from experienced professionals while helping develop complex and challenging software. 
                     </p>

@@ -17,7 +17,7 @@ function App() {
       <MyParticles />
       <div className='intro'>
         <h1 className='hi'>Hi, I'm Dillon</h1>
-        <h4>A Full-Stack Developer looking to develop my skills and learn new things</h4>
+        <h4>A Software Developer looking to develop my skills and learn new things</h4>
       </div>
       <About />
       <Projects />

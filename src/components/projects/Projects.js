@@ -10,6 +10,7 @@ const Projects = () => {
     return (
         <div className="projects" >
             <h2>Projects</h2>
+            <p>**site backend may take a minute to instantiate after clicking login**</p>
             <div className="project">
                 <div className="description">
                     <h3>Voting App <span className="small">(name pending)</span></h3>
