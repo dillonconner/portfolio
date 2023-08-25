@@ -39,7 +39,7 @@ const Projects = () => {
             <div className="project">
                 <div className="description">
                     <h3>My Cookbook</h3>
-                    <p>Recipe creation and editting tool that allows user to see different versions of their recipe</p>
+                    <p>Recipe creation and editing tool that allows user to see different versions of their recipe</p>
 
                     <h4 >Built with</h4>
                     <p>React | Redux | Nodejs | MongoDb</p>
